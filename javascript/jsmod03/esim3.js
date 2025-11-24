@@ -88,8 +88,6 @@ document.querySelector("a",).addEventListener("click", function(event) {
     console.log("klikattu, mutta sivu ei päivity")
 })
 
-
-
 //lomakkeen käsittely
 const addForm = document.querySelector("form")
 const inputText = addForm.querySelector("input")
